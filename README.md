@@ -1,5 +1,9 @@
 # Loop Scroll Rect
 
+## My Version
+I modified something for Adding two Actions. 
+
+One is a Listener for the message __'OnScrollCell'__ and the other is for __'OnScrollReturned'__.
 ## v1.04
 
 __This project works for Unity 5.2 or newer.__ I havn't tested older versions and any Pull Requests are welcomed.
