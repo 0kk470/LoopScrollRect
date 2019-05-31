@@ -20,7 +20,7 @@ namespace UnityEngine.UI
 
         [HideInInspector]
         [NonSerialized]
-        public LoopScrollDataSource dataSource = LoopScrollSendIndexSource.Instance;
+        public LoopScrollDataSource dataSource = new LoopScrollSendIndexSource();
         public object[] objectsToFill
         {
             // wrapper for forward compatbility
