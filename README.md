@@ -4,6 +4,8 @@
 I modified something for Adding two Actions. 
 
 One is a Listener for the message __'OnScrollCell'__ and the other is for __'OnScrollReturned'__.
+
+[See the difference](https://github.com/0kk470/LoopScrollRect/commit/6e808dd931806f2c48cb9a87bb9f8727ab824209)
 ## v1.04
 
 __This project works for Unity 5.2 or newer.__ I havn't tested older versions and any Pull Requests are welcomed.
