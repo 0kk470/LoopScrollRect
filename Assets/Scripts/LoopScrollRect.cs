@@ -277,7 +277,7 @@ namespace UnityEngine.UI
         //==========LoopScrollRect==========
 
         //Listener
-        public void AddListenrOnData(Action<Transform, int> onData)
+        public void AddListenerOnData(Action<Transform, int> onData)
         {
             if (dataSource != null)
                 dataSource.onData = onData;

@@ -9,7 +9,7 @@ public class ListenerTest : MonoBehaviour {
 	void Awake () {
         loopScrollRect = GetComponent<LoopScrollRect>();
         loopScrollRect.AddListenerOnReturn(OnCellReturned);
-        loopScrollRect.AddListenrOnData(OnCellData);
+        loopScrollRect.AddListenerOnData(OnCellData);
 	}
 	
 	void OnCellReturned(Transform cell)
